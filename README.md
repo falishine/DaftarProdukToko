@@ -4,16 +4,15 @@ Project Apache NetBeans berbasis JavaFX dan Maven untuk mengelola daftar produk 
 
 ## CARA MENJALANKAN
 
-1. Ekstrak ZIP project.
-2. Buka Apache NetBeans.
-3. Pilih **File → Open Project**, lalu pilih folder `DaftarProdukToko`.
-4. Tunggu Maven memuat dependensi JavaFX.
-5. Klik kanan project → **Clean and Build**.
-6. Jalankan aplikasi menggunakan goal Maven berikut:
-
-   ```bash
-   javafx:run
-   ```
+1. Buka project Daftar Produk Toko menggunakan Apache NetBeans IDE 25.
+2. Pastikan konfigurasi JavaFX dan dependensi Maven sudah tersedia dengan benar.
+3. Lakukan Clean and Build untuk memeriksa dan membangun project.
+4. Jika proses build berhasil, jalankan aplikasi melalui Maven dengan perintah javafx:run.
+5. Tunggu beberapa saat hingga tampilan aplikasi Daftar Produk Toko muncul.
+6. Isi nama produk, pilih kategori produk (Makanan atau Minuman), dan masukkan harga produk.
+7. Tekan tombol Tambah untuk memasukkan produk ke dalam tabel daftar produk.
+8. Gunakan fitur Cari untuk mencari produk berdasarkan nama.
+9. Pilih salah satu produk pada tabel untuk melihat detail informasi produk.
 
 ## FITUR APLIKASI
 
