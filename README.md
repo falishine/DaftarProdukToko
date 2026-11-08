@@ -27,7 +27,7 @@ Project Apache NetBeans berbasis JavaFX dan Maven untuk mengelola daftar produk 
 
 ## SCREENSHOT APLIKASI
 
-Screenshot tampilan aplikasi akan ditambahkan di bagian ini.
+![Tampilan Utama Aplikasi](tampilan-utama.png)
 
 ## CONTOH DATA UNTUK PENGUJIAN
 
